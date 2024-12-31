@@ -9,13 +9,13 @@ This repository documents my journey of learning **OpenCV (cv2)**, a powerful li
 - **Code Examples**: Easy-to-follow examples to reinforce understanding.
 
 ## Note
-**1**: I Learned About Basics of OpenCV2 with Python.
-**2**: It is completely Beginner Frielndly!
-**3**: Learned Concept include:
-                -Basics
-                -Colorspaces
-                -Blurring
-                -Threshold
-                -Edge Detection
-                -Drawing
-                - Contours
+- **1**: I Learned About Basics of OpenCV2 with Python.
+- **2**: It is completely Beginner Frielndly!
+- **3**: Learned Concept include:
+-                -Basics
+-               -Colorspaces
+-                -Blurring
+-                -Threshold
+-                -Edge Detection
+-                -Drawing
+-                - Contours

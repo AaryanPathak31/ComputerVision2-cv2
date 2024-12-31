@@ -3,7 +3,7 @@ import os
 import cv2
 
 
-img = cv2.imread(os.path.join('.','data','noob.png'))
+img = cv2.imread(os.path.join('.','contours','birds.jpg'))
 
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
